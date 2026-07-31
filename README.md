@@ -1,5 +1,4 @@
 # wordpress-aws-ec2
-wordpress-aws-ec2
 
 <p>&nbsp;</p><p class="MsoNormal" style="line-height: normal; margin-bottom: 0cm;"><b><u><span style="font-size: 14.0pt;">Connect to server using SSH and run below commands
 using sudo.<br />
